@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Toggle from './App';
+import App from './App';
+import { createStore } from 'redux';
+
+const store = createStore();
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-    <Toggle />
+root.render( <
+    App / >
 );

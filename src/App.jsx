@@ -22,7 +22,8 @@ function App() {
     {id:16,src:'https://sun9-62.userapi.com/impg/9cX8akgV4HNLYLpWQbuw25UilFXUUYtlv0oL_Q/lUeq7TI4e1Y.jpg?size=1920x1392&quality=96&sign=4f6ac3dae5743da4f81c4c8b187ad9a3&type=album'},
     {id:17,src:'https://sun9-27.userapi.com/impg/DpVxuWYORImDEezbyNbZ__qYCPibvtjtIoqHPQ/5Ty-HSju-Y4.jpg?size=1920x1080&quality=96&sign=7b5a61e34ad686e3158d434ce1b0c973&type=album'},
     {id:18,src:'https://sun9-72.userapi.com/impg/9z94NmlMDZ0kbPLFYUBZnPtI-pDbyX-j2SVPtQ/SiIcQYzvQx0.jpg?size=2560x1832&quality=96&sign=396a45ca3e1989bc98a324d0ea5af7ce&type=album'},
-  
+    {id:19,src:'https://sun9-73.userapi.com/impg/PT9VwUdSdfLy7s-LVttufBtSTetrQq3ubtO6Pw/HcYFS0rabLo.jpg?size=702x699&quality=95&sign=482e6036d17ec3bac99b126c791bf03f&type=album'},
+
   ]);
 
  
